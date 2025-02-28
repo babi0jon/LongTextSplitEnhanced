@@ -1,0 +1,2 @@
+# LongTextSplitEnhanced
+Comfyui_LongTextSplit_Comfyroll compatible
